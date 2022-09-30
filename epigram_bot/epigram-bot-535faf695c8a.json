@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "epigram-bot",
+  "private_key_id": "535faf695c8aec96a3fab9b1d8bf2bd2e869becf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCv36DV5kvj51tk\nt2LcCtHPlNsx3SAvPvHd+dxpKouAQOqFvyqJh1du3XSrHxgqiYPLpP1UKDuM6rO/\nhBnq0OosGn/g4fG+fgyDwv0f6cXkSf0SMg7pFqyYTIN8Qb21559ryTGu1oFL8CVI\nZ4+aJi4x3v9i8aM4XshBE201NOWernluuoVLZVO3NcAgZWRXQ9hC1H9V1Lb3RIRb\nIVnXt6uSFgcjmEjKAX5nfk0dWnxYTN2PdR8Jfqu+Hw4lpmT2pqLpkigN/QSbQV7n\nNuCfy6RQAp1t/q/TCz5fPgfbHw4Nw7icwdzFHdhke10ZIHv6+t7h3ectAE6e5MZv\nC+8a7dXRAgMBAAECggEAFj9sFsLcL3HxLhYYtmHUAAtXiGuYNQHPEi0XrwyyZZX7\nVNHwQpd7/Z/xW0LtXqwon5aOc+/m9euBXiUK1kPOllJVLOXIG+MmwsrkFFO73yYQ\n58ACAjBbwvmi2bwYkINCt8gqtcWYHjq8V01qbViObWvv0zINW1skv+lXiOyDw4Ue\n/dJE3SzQ+1ophNlL5VewFlVlXkihqnbPQkcEHI1PvRF1/viTPCwSaSx+3tXmOQT4\nHsYiM3NHNOmDxfAC09pnxIToFTPDXcs8nvxbzySZGovAoujb94SYs28+N+ifAbIl\nSmyKHDfsfgE41kTeEZLLIk40phqVVrkKcERa77N0JQKBgQDWCpIuaRRAuqT40GNO\nCp/wYp0BJYVEmIQavM28EKjQTUkIwqxnbUSgOqVqOawCS0ZX76cf3ETMn8cMe/D9\nLJIKSABxHQ0fj/hopKg9cMFjKyiMMM3O+ezhfQuG171CZsMifgMonx5CdrA3WRnJ\nUVkbCBVeoRjZnXDW886VgQYkswKBgQDSWaaK7C/3d8eqWO18+VnYBhc+VxL/MpG2\nAuHAj6B5ePMl89vJK8OSPt+TUDrCgbElhn8R6aWz1yUGLYypiSJO3Nt3fbXgHfgO\nOcxhwWqHVAeT7koJ2sImfmrmfQKorUbBRZYKKkd98rj0QYXMEA14jbTtKZPABdDT\nabI+G0cFawKBgG07u9qfmcxm9GZewy9C0Nj3GrVJFrgpNdIHZN+DiQO1TX6BC0dF\nRm6XP2/0usn47I9YKOxjl2DuccD3R8eNBYLluAQCFX50FQwibBHfB3K6xdi113K3\nraJuFIHefCH1G8TwlmAWxHSa6dd1S2mocFcRSwaeJHZ6mOm6R0WZMS9tAoGBAJBi\nuz+WmeI61NHoErP7EKGIpMHE0SRc2MnftogPzm4zCGuftNikcqza/WpH4t2KWkdQ\nx75K69PDNQXFlEz29Za+YOLnZkU9LPzOzay4L+BOXJk9MpMLFsOHeOdXHdEch3m4\nwyGdHc+lITGAHFATILwEQRGdvW5MT6geYBvja1+bAoGAe3xb/BqGWwtr3eZA1Bwn\nnEULM+A1oNyo1PI3U0IOwyZ1UIlbBf7HiO+BwhGk3Nasf7jVuonvwiVcXHXSVkBe\nAI7QHZO1J3PzJFD1GI70qnPIOQYu5zIMB7Z/BmnEZZrLJImDf8KNE5sjzDeyygYI\nCNroPOn0gIg7Ue15j4ywGuU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "callimachus-python@epigram-bot.iam.gserviceaccount.com",
+  "client_id": "103773177086560649261",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/callimachus-python%40epigram-bot.iam.gserviceaccount.com"
+}
